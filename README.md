@@ -49,6 +49,3 @@ Some useful queries are already prepared in `./queries.sql`.
 
 ## Credits
 Lukas Denk (lukasdenk@web.de)
-
-## Disclaimer
-The owner of this git repository gives no warranties of any kind.
