@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#project specific
+/resources/db.sqlite
+/resources/settings.json
+#/resources/internal_paras.json
+/resources/logging.log
+/resources/transactions/*
